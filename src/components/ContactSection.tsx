@@ -1,6 +1,6 @@
 import { type CSSProperties } from 'react'
 
-function ContactSection() {
+function ContactSection() { 
   return (
     <section id="contact" className="section section--contact">
       <div className="contact animate-on-scroll" style={{ '--stagger': 0 } as CSSProperties}>
