@@ -7,7 +7,7 @@ function HighlightSection() {
         <span className="highlight__eyebrow">Metodo Bilotto</span>
         <p>
           Analizzo dati e conversazioni ogni settimana, intervenendo sulle leve creative e media per fare crescere il tuo
-          pubblico senza perdere autenticità.
+          pubblico senza perdere autenticita.
         </p>
       </div>
     </section>
